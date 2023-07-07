@@ -5,7 +5,7 @@ import re
 import json
 import os 
 
-#url='https://wenku.baidu.com/view/0571dbdf6f1aff00bed51e62.html?sxts=1539958717044'
+#url='https://wenku.baidu.com/view/d48c13eb9b6648d7c1c746ee?aggId=b3e40a1913661ed9ad51f01dc281e53a580251a8&fr=catalogMain_text_ernie_recall_v1%3Awk_recommend_main3&_wkts_=1688696657610&bdQuery=%E6%9F%93%E8%89%B2%E8%B4%A8%E5%85%8D%E7%96%AB%E5%85%B1%E6%B2%89%E6%B7%80%28ChIP%29%E5%AE%9E%E9%AA%8C'
 jsList=[]
 picList=[]
 if not os.path.exists('./img/'):
